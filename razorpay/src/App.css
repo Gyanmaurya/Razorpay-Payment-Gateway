@@ -1,0 +1,45 @@
+body{
+  width: 1wh;
+  /* border: 1px solid red; */
+  margin: 150px;
+}
+.main{
+ width: 200px;
+ justify-content: center;
+ justify-items: center;
+ margin: auto;
+ background-color: gray;
+ padding: 10px;
+ 
+
+}
+.buttonCheckout{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  text-align: center  ;
+  width: 100px;
+  margin: auto;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+  
+}
+.proName{
+  color: white;
+  margin: auto;
+  text-align: center  ;
+  margin-bottom: 5px;
+}
+.price{
+  color: white;
+  margin: auto;
+  text-align: center  ;
+  margin-bottom: 5px;
+}
+.price span{
+    text-decoration: line-through;
+    color: red;
+    padding-left: 5px;
+}
+
